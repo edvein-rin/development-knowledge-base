@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Front-end/Stack/Frameworks/React  ",
+      "color": {
+        "a": 1,
+        "rgb": 5425632
+      }
+    },
+    {
+      "query": "path:Front-end/Stack  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725449
+      }
+    },
+    {
+      "query": "path:Languages  ",
+      "color": {
+        "a": 1,
+        "rgb": 12247122
+      }
+    },
+    {
+      "query": "path:Front-end  ",
+      "color": {
+        "a": 1,
+        "rgb": 10965728
+      }
+    },
+    {
+      "query": "path:DevOps/Stack/",
+      "color": {
+        "a": 1,
+        "rgb": 4038283
+      }
+    },
+    {
+      "query": "path:DevOps  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431478
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.270833333333333,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.7132754626224443,
+  "close": true
+}
