@@ -1,3 +1,3 @@
-Atomic Design - https://atomicdesign.bradfrost.com/
-Feature Sliced Design - https://feature-sliced.github.io/documentation/
-Bulletproof React - https://github.com/alan2207/bulletproof-react
+- Atomic Design - https://atomicdesign.bradfrost.com/
+- Feature Sliced Design - https://feature-sliced.github.io/documentation/
+- Bulletproof React - https://github.com/alan2207/bulletproof-react

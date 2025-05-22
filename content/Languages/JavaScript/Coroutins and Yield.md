@@ -1,9 +1,4 @@
-#TODO 
+#TODO [^1]
 
-## Sources
 
-```cardlink
-url: https://x.st/javascript-coroutines/
-title: "Coroutine Event Loops in Javascript"
-host: x.st
-```
+[^1]: [Coroutine Event Loops in Javascript](https://x.st/javascript-coroutines/)

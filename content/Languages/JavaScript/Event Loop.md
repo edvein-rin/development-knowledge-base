@@ -1,4 +1,4 @@
-#TODO 
+#TODO [^1]
 ## Browser specific
 
 #TODO Write about browser specific event loop behaviour.
@@ -7,13 +7,4 @@
 #TODO Write about Node.js specific event loop behaviour.
 
 
-## Sources
-
-```cardlink
-url: https://uk.javascript.info/event-loop
-title: "Цикл подій (event loop): мікрозавдання (microtasks) та макрозавдання (macrotasks)"
-host: uk.javascript.info
-favicon: https://uk.javascript.info/img/favicon/favicon.png
-image: https://uk.javascript.info/img/site_preview_en_1200x630.png
-```
-
+[^1]: [Цикл подій (event loop): мікрозавдання (microtasks) та макрозавдання (macrotasks)](https://uk.javascript.info/event-loop)
