@@ -15,13 +15,6 @@
       }
     },
     {
-      "query": "path:Front-end/Stack  ",
-      "color": {
-        "a": 1,
-        "rgb": 14725449
-      }
-    },
-    {
       "query": "path:Languages  ",
       "color": {
         "a": 1,
@@ -32,7 +25,7 @@
       "query": "path:Front-end  ",
       "color": {
         "a": 1,
-        "rgb": 10965728
+        "rgb": 14135625
       }
     },
     {
@@ -48,6 +41,13 @@
         "a": 1,
         "rgb": 5431478
       }
+    },
+    {
+      "query": "path:Back-end  ",
+      "color": {
+        "a": 1,
+        "rgb": 7237336
+      }
     }
   ],
   "collapse-display": true,
@@ -56,10 +56,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.270833333333333,
+  "centerStrength": 0.484375,
   "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.7132754626224443,
+  "linkDistance": 32,
+  "scale": 0.5359795996226007,
   "close": true
 }

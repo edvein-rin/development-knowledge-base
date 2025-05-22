@@ -1,6 +1,6 @@
 %% Begin Waypoint %%
 - [[Go]]
-- [[JavaScript]]
+- **[[JavaScript]]**
 - [[Python]]
 - [[SQL]]
 - [[TypeScript]]

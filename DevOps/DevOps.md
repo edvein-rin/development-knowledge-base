@@ -1,4 +1,4 @@
 %% Begin Waypoint %%
-- **[[Stack]]**
+- **[[DevOps/Stack/Stack]]**
 
 %% End Waypoint %%
