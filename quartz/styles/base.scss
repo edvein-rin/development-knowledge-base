@@ -292,6 +292,19 @@ a {
   border-top: 1px solid var(--lightgray);
 }
 
+// <-- A hack for changing the footnotes label
+.footnotes > h2 {
+  text-indent: -9999px;
+}
+
+.footnotes > h2::before {
+  content: "Sources";
+  display: inline;
+  position: absolute;
+  text-indent: 9999px;
+}
+// -->
+
 input[type="checkbox"] {
   transform: translateY(2px);
   color: var(--secondary);
