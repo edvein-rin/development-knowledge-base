@@ -1,4 +1,4 @@
-Represents preformatted text which is to be presented exactly as written in the HTML file [^1].
+`<pre />` renders text exactly as it's written in the HTML file [^1].
 
 >[!WARNING]
 >Whitespace inside this element is displayed as written, with one exception. If one or more leading newline characters are included immediately following the opening `<pre>` tag, the _first_ newline character is stripped.

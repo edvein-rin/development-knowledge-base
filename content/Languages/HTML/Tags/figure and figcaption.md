@@ -1,4 +1,4 @@
-Used for captioning images and other single-unit elements[^1].
+`<figure />` and `<figcaption /> ` are used for captioning images and other single-unit elements[^1].
 ## Examples
 
 ### Image captioning

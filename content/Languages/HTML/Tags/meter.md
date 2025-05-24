@@ -1,4 +1,4 @@
-Useful for creating simple metrics [^1].
+`<meter />` is used for creating simple metrics [^1].
 
 Styling is limited, but browser support is good.
 

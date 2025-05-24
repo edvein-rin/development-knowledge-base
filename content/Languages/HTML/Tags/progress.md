@@ -1,4 +1,4 @@
-Used for creating progress bars [^1].
+`<pre />` is used for creating progress bars [^1].
 
 > [!WARNING]
 > If you want to create a metric indicator use [[meter]] tag instead.

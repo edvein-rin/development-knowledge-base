@@ -1,4 +1,4 @@
-A native way for creating accordions or a nested navigation [^1].
+`<details />` and `<summary />` provide a native way for creating accordions or a nested navigation [^1].
 
 It has an `open` attribute for managing a default state.
 

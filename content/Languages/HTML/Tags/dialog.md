@@ -1,4 +1,4 @@
-A native way to create modals, alerts, subwindows, etc [^1].
+`<dialog />` provides a native way for creating modals, alerts, subwindows, etc [^1].
 
 It can be opened with a `.show()` method for non-modal dialog boxes and a `.showModal()` for modals.
 It can be closed with a `.close()` method or by pressing `ESC`.

@@ -1,4 +1,4 @@
-Highlights text[^1].
+`<mark />` highlights text[^1].
 
 Useful for search results.
 ## Examples
