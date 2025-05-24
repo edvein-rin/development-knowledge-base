@@ -1,7 +1,7 @@
 Used for creating progress bars [^1].
 
 > [!WARNING]
-> If you want to create a metric indicator use [[meter|<meter />]] tag instead.
+> If you want to create a metric indicator use [[meter]] tag instead.
 
 ## Examples
 
